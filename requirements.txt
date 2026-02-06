@@ -1,0 +1,16 @@
+# Requirements for Sales Analytics API
+
+## Core Dependencies
+flask==3.0.0
+werkzeug==3.0.1
+
+## Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+## Benchmarking
+requests==2.31.0
+
+## Development
+autopep8==2.0.4
+pylint==3.0.3
